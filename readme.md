@@ -1,4 +1,4 @@
 ### Bonjour
 - étudiante
-- love pizza
+- love (vegan) pizza
 - learning git!
